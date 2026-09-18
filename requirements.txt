@@ -1,3 +1,4 @@
+pyyaml==5.3.1
 flask==0.12.2
-jinja2==2.4.1
-# rescan 2026-07-04 verify key-mismatch fix (PR #1604)
+requests==2.19.1
+jinja2==2.10
