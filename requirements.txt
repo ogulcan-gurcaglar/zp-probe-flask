@@ -1,3 +1,2 @@
-# case C: unresolvable pin forces the resolver to degrade
+# case C step 2: healthy manifest, resolver succeeds
 flask==0.12.2
-zp-does-not-exist-pkg==9.9.9
