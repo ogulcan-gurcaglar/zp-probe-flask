@@ -1,9 +1,9 @@
 {
   "name": "zp-probe-multi",
   "version": "1.0.0",
-  "description": "case D multi-ecosystem probe",
+  "description": "case D step 2: JS deps fixed, python untouched",
   "dependencies": {
-    "lodash": "4.17.11",
-    "minimist": "0.0.8"
+    "lodash": "4.17.21",
+    "minimist": "1.2.6"
   }
 }
