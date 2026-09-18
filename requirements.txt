@@ -1,5 +1,2 @@
-# probe round 3: identical dependency set, third commit
-pyyaml==5.3.1
+# case D: python leg
 flask==0.12.2
-requests==2.19.1
-jinja2==2.10

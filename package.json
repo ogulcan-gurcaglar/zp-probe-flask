@@ -1,0 +1,9 @@
+{
+  "name": "zp-probe-multi",
+  "version": "1.0.0",
+  "description": "case D multi-ecosystem probe",
+  "dependencies": {
+    "lodash": "4.17.11",
+    "minimist": "0.0.8"
+  }
+}
