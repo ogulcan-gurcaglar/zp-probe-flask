@@ -1,2 +1,2 @@
-# case F: version drift on a re-detected finding
-jinja2==2.10
+# case F: bumped to another STILL-VULNERABLE version
+jinja2==2.11.3
